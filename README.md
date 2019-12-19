@@ -1,2 +1,2 @@
 # terraform_aws
-Learning Provision through Terraform in AWS
+Learning Provisioning through Terraform in AWS
